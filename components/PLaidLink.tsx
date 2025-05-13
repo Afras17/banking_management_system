@@ -2,7 +2,7 @@ import React from 'react'
 
 const PLaidLink = () => {
   return (
-    <div>PLaidLink</div>
+    <div>PlaidLink</div>
   )
 }
 
