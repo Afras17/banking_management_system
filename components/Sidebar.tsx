@@ -50,7 +50,7 @@ const Sidebar = ({ user }: SiderbarProps) => {
 
         {/* <PlaidlInk user={user}/> */}
       </nav>
-      {/* <Footer user={user} /> */}
+      <Footer user={user} />
     </section>
   )
 }
