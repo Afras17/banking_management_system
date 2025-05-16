@@ -48,7 +48,7 @@ const Sidebar = ({ user }: SiderbarProps) => {
           )
         })}
 
-        {/* <PlaidlInk user={user}/> */}
+        <PlaidLink user={user}/>
       </nav>
       <Footer user={user} />
     </section>
